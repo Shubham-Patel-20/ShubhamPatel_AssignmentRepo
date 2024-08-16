@@ -1,4 +1,0 @@
-- Submitting Date: 02/08/2024
-- Everything is followed as per steps
-- Assignment Level: Easy
-- Code Quality is Maintained? Yes
